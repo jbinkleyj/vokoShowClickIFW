@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>vokoShowClick</Name>
+    <Version>3.0.0</Version>
+    <Title>vokoShowClick</Title>
+    <Publisher>vokoShowClick Team</Publisher>
+    <ProductUrl>https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html</ProductUrl>
+    <WizardStyle>Classic</WizardStyle>
+    <Logo>vokoShowClick-logo.png</Logo> <!-- Logo oben rechts im Wizard -->
+    <MaintenanceToolName>Uninstall</MaintenanceToolName>
+    <TargetDir>@ApplicationsDir@/vokoShowClick</TargetDir>
+    <InstallerApplicationIcon>vokoShowClick-InstallerWindowIcon</InstallerApplicationIcon> <!-- Icon für Titelzeile und Deinstallation -->
+    <ControlScript>controllerscript.qs</ControlScript>
+</Installer>

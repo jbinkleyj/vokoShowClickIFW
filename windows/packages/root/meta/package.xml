@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>vokoShowClick</DisplayName>
+    <Description>Install vokoShowClick</Description>
+    <Version>3.0.0</Version>
+    <ReleaseDate>2021-02-28</ReleaseDate>
+    <Default>true</Default>
+    <Script>installscript.qs</Script>
+    <Licenses><License name="GNU GENERAL PUBLIC LICENSE Version 2, June 1991" file="COPYING" /></Licenses>
+</Package>
