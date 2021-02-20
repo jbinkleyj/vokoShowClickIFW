@@ -1,2 +1,2 @@
 # vokoShowClickIFW
-Installer for vokosshowClick
+Installer for vokoShowClick
